@@ -50,3 +50,20 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#MDK-ARM
+# .uvprojx
+# .uvoptx
+# .T
+# .scvd
+# .crf
+# .axf
+# .htm
+# .lnp
+# .map
+# .sct
+# .dep
+# .dbgconf
+MDK-ARM/
+#vscode
+.vscode/
